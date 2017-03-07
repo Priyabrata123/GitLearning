@@ -1,1 +1,4 @@
 i am learning git merge
+this is my first learning
+I am changing at remote
+
